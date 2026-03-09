@@ -1,22 +1,23 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
-header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
-baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
+# Site settings
+title: Dingyi's Blog # 网站主标题
+SEOTitle: 赵丁艺的博客 | Zhao Dingyi # 浏览器标签页上显示的标题，利于 SEO
+header-img: img/home-bg.jpg # 首页背景图路径
+email: your-email@example.com # 换成你的常用邮箱
+description: "这里是赵丁艺的个人博客，记录代码、科研与生活。" # 网站的简短介绍
+keyword: "赵丁艺, 博客, 计算机科学, 联邦学习, BanG Dream!, 武汉大学, CS" # 搜索引擎抓取的关键词
+url: "https://WHUZhaoDingyi.github.io" # 必须换成你真实的 GitHub Pages 链接
+baseurl: "" # 保持为空即可
 
 # Publish posts or collection documents with a future date.
 future: true
 
 # SNS settings
-RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
+# SNS settings
+RSS: true # 建议打开，方便别人订阅你的博客
+weibo_username: 你的微博ID # 如果不用可以加 # 注释掉
+zhihu_username: 你的知乎ID
+github_username: WHUZhaoDingyi # 填上你的用户名，图标会自动链向你的 GitHub
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -73,9 +74,9 @@ ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
 ga_domain: huangxuan.me
 
 # Sidebar settings
-sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar: true # 保持开启
+sidebar-about-description: "Hope you happy, my friend. <br> CS @ WHU" # 可以用 <br> 换行
+sidebar-avatar: https://github.com/WHUZhaoDingyi.png # 填入你的 GitHub 头像链接，或者本地图片路径如 img/avatar.jpg
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -86,7 +87,7 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 # MathJax rendering for layout:page (e.g. post preview)
-page-mathjax: false
+page-mathjax: true
 
 # Friends
 friends:
