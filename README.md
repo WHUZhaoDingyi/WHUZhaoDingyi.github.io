@@ -61,3 +61,17 @@ Copyright (c) 2015-present Huxpro
 
 Hux Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
 Copyright (c) 2013-2016 Blackrock Digital LLC.
+
+
+---
+layout:     post
+title:      "随笔标题"
+subtitle:   "副标题"
+date:       2026-03-10 12:00:00
+author:     "Zhao Dingyi"
+header-img: "img/post-bg-universe.jpg"
+tags:
+    - 随笔
+---
+
+（这里开始写正文...）

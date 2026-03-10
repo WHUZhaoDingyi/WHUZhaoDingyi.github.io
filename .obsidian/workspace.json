@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "2026-03-10-吐槽"
             }
-          },
-          {
-            "id": "5f126589d195a79c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "img/avatar-hux-ny.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "avatar-hux-ny"
-            }
           }
         ]
       }
@@ -197,8 +185,11 @@
   },
   "active": "e7bad1662cbdb313",
   "lastOpenFiles": [
-    "_posts/2026-03-09-hello-world.md",
+    "_posts/2026-03-10-随笔.md",
+    "README.md",
+    "_posts/2026-03-10-吐槽.md",
     "img/avatar-hux-ny.jpg",
+    "_posts/2026-03-09-hello-world.md",
     "img/icon_wechat.png",
     "img/post-bg-miui6.jpg",
     "img/post-bg-nextgen-web-pwa.jpg",
@@ -208,8 +199,6 @@
     "img/post-bg-see-u-ali.jpg",
     "img/post-bg-universe.jpg",
     "img/post-bg-unix-linux.jpg",
-    "_posts/2026-03-10-吐槽.md",
-    "_posts/2026-03-10-随笔.md",
     "_includes/about/zh.md",
     "_includes/about/en.md"
   ]
